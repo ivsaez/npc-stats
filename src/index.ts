@@ -1,4 +1,4 @@
-function hello(name = "Ivan") {
+function hello(name: string = "Ivan"): string {
     return `Hello, ${name}`;
   }
   
