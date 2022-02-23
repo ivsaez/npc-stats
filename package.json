@@ -1,0 +1,16 @@
+{
+  "name": "npc-stats",
+  "version": "1.0.0",
+  "description": "Library of classes to model videogame stats for NPCs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "videogame",
+    "stats",
+    "npc"
+  ],
+  "author": "Ivan Saez Zamora",
+  "license": "MIT"
+}
