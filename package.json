@@ -56,5 +56,9 @@
     "dist",
     "package.json",
     "README.md"
-  ]
+  ],
+  "dependencies": {
+    "limited-int": "^1.0.0",
+    "role-methods": "^1.0.1"
+  }
 }
