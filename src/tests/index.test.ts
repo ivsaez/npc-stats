@@ -1,4 +1,4 @@
-import { PhysicalStats, MentalStats } from "..";
+import { PhysicalStats, MentalStats } from "../stats";
 import { ProfileFactory, ProfileKind, ProfileLevel } from "../profiles";
 
 describe("PhysicalStats should", () => {
